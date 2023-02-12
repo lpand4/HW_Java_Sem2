@@ -1,0 +1,24 @@
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [11, 29, 6, 6, 28]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [11, 6, 29, 6, 28]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [11, 6, 6, 29, 28]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [11, 6, 6, 28, 29]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [6, 11, 6, 28, 29]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [6, 6, 11, 28, 29]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [6, 6, 11, 28, 29]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [6, 6, 11, 28, 29]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [6, 6, 11, 28, 29]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [6, 6, 11, 28, 29]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [6, 6, 11, 28, 29]
+февр. 12, 2023 4:22:03 PM App2 sortBuble
+INFO: [6, 6, 11, 28, 29]
