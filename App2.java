@@ -17,7 +17,7 @@ public class App2 {
 
     public static int[] sortBuble(int[] mass) throws SecurityException, IOException{
         log.setLevel(Level.INFO);
-        FileHandler fh = new FileHandler("log.txt");
+        FileHandler fh = new FileHandler("log.txt", true);
         log.addHandler(fh);
         SimpleFormatter sf = new SimpleFormatter ();
         fh.setFormatter(sf);    
